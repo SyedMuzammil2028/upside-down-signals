@@ -28,4 +28,4 @@ During the investigation, the recovery phrase was stored in the commit in an enc
 
 Investigators believe the encoding follows a specific encoding format that is already mentioned.
 
-Decode the log entry, recover the password, and unlock the archive to reveal the next stage.
+Decode the log entry, recover the password, and unlock the archive to reveal the next stage..
